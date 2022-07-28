@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\peter\OneDrive\Desktop\BzTuts\BzTuts\main.cpp(367,26): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\peter\OneDrive\Desktop\BzTuts\BzTuts\main.cpp(368,27): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+  BzTuts.vcxproj -> C:\Users\peter\OneDrive\Desktop\BzTuts\x64\Debug\BzTuts.exe
