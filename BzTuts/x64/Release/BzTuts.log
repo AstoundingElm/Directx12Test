@@ -1,0 +1,9 @@
+﻿  compilation object save succeeded; see C:\Users\peter\OneDrive\Desktop\BzTuts\x64\Release\PixelShader.cso
+  main.cpp
+C:\Users\peter\OneDrive\Desktop\BzTuts\BzTuts\main.cpp(270,26): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\peter\OneDrive\Desktop\BzTuts\BzTuts\main.cpp(271,27): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+  Generating code
+  Finished generating code
+LINK : fatal error LNK1201: error writing to program database 'C:\Users\peter\OneDrive\Desktop\BzTuts\x64\Release\BzTuts.pdb'; check for insufficient disk space, invalid path, or insufficient privilege
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 50 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
